@@ -1,6 +1,8 @@
 {
     "status": "success",
     "message": [
-        "dam.may true"
+        "npc1 true",
+        "npc2 false",
+        "npc3 true"
     ]
 }
