@@ -1,4 +1,6 @@
 {
     "status": "success",
-    "message": "dam.may true"
+    "message": [
+        "dam.may true"
+    ]
 }
