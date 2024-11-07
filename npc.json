@@ -1,8 +1,10 @@
 {
-    "status": "success",
-    "message": [
-        "npc1 true",
-        "npc2 false",
-        "npc3 true"
-    ]
+  "status": "success",
+  "message": [
+    "John true",
+    "Jane false",
+    "Peter true",
+    "Lucy true",
+    "Michael true"
+  ]
 }
